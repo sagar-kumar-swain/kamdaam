@@ -1,7 +1,1 @@
-{
-  "versionCode": 19,
-  "versionName": "2.9.1",
-  "apkUrl": "",
-  "notes": "Current version.",
-  "force": false
-}
+{"versionCode": 20, "versionName": "2.9.2", "apkUrl": "https://github.com/sagar-kumar-swain/kamdaam/releases/download/v2.9.2/Kamdaam-v2.9.2-FINAL.apk", "notes": "New logo, 43 products, 10 categories, Flipkart-style home feed.", "force": false}
